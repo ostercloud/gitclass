@@ -1,3 +1,6 @@
+dependencies:
+  pre:
+    - pip install turbolift
 deployment:
   production:
     branch: master
